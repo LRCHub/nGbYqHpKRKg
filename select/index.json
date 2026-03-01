@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星恋歌",
+  "base_artist": "MIMI",
+  "createdAt": "2026-03-01T06:10:26.334871Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星恋歌 (feat. 初音ミク)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_星恋歌_(feat._初音ミク)_MIMI.txt"
+    }
+  ]
+}
